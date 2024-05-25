@@ -2,7 +2,7 @@
 
 ### README.md
 
-# 📚 Library Management SQL Database
+# 📚 Library Management SQL Database and Analysis
 
 This project involves creating and analyzing a comprehensive library database using SQL. The database includes tables for books, authors, members, and borrowing records. Below are the key details:
 
